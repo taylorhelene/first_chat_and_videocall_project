@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mhealth</string>
+    <string name="title_activity_user__navigation">User_Navigation</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_useravigation">Useravigation</string>
+    <string name="title_activity_user_nav">user_nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_doc_nav">doc_nav</string>
+    <string name="agora_app_id">4d12afb1d16746e0a1483eecd81b5e4d</string>
+</resources>

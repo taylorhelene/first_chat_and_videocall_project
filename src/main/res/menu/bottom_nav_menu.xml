@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/doctors"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="message doctors available" />
+    <item
+        android:id="@+id/sendimag"
+        android:icon="@android:drawable/presence_video_busy"
+        android:title="video call a doctor" />
+    <item
+        android:id="@+id/uploading"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="upload documents" />
+
+
+
+
+
+
+</menu>
